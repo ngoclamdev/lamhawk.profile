@@ -1,0 +1,6 @@
+.__tick {
+    width: 45px;
+    vertical-align: middle; /* Căn giữa dấu tích theo chiều dọc */
+    border: none !important;
+    background-color: transparent !important;
+}
